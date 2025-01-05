@@ -3,8 +3,8 @@
 
 ###
 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazabe&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazabe)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazabe&layout=compact)
 
 
 <div align="left">
