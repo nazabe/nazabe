@@ -5,7 +5,7 @@
 
 <div>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nazabe=anuraghazra&layout=compact)
-</div>div>
+</div>
 
 <div align="left">
   
