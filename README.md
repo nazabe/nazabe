@@ -4,7 +4,7 @@
 ###
 
 <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?nazabe=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazabe&layout=compact)
 </div>
 
 <div align="left">
