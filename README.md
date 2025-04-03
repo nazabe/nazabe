@@ -15,7 +15,9 @@
 
 <br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazabe&theme=github_dark)
+<div align="center">
+  <img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazabe&theme=github_dark>
+</div>
 
 ## 🌈 Skills
 
