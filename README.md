@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nazareno Beauvais and I'm a developer, from Argentina</h2>
+<h2 align="left">Hi, I'm Nazaro, a developer from Argentina</h2>
 
 ## 🌐 Socials & Contact
 
@@ -19,7 +19,7 @@
   <img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazabe&theme=github_dark>
 </div>
 
-## 🌈 Skills
+## Skills
 
 ### Programming languages
 
