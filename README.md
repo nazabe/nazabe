@@ -1,11 +1,5 @@
 <h2 align="left">Hi, I'm Nazaro, a developer from Argentina</h2>
 
-<br>
-
-<div align="center">
-  <img src=https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazabe&theme=github_dark>
-</div>
-
 ## Skills
 
 ### Programming languages
